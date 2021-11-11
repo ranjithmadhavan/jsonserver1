@@ -1,0 +1,34 @@
+{
+  "dining": {
+    "date": "17 Sept, 2022",
+    "meals": [
+      {
+        "id": 1,
+        "recurring": "true",
+        "time": "07:00 AM - 11:00 AM",
+        "mealtype": "Breakfast",
+        "subscribed": "true",
+        "title": "Gourmet Noodle",
+        "description": "Homestyle comfort food. Meatballs and gravy, tater-tot hotdish, and potatos"
+      },
+      {
+        "id": 2,
+        "recurring": "true",
+        "time": "08:00 PM - 11:00 PM",
+        "mealtype": "Dinner",
+        "subscribed": "true",
+        "title": "Global Cuisine",
+        "description": "Fire up the wok! International food made to order."
+      },
+      {
+        "id": 3,
+        "recurring": "false",
+        "time": "12:00 PM - 03:00 PM",
+        "mealtype": "Lunch",
+        "subscribed": "false",
+        "title": "Allergen Free",
+        "description": "Serving cuisine free of the eight common allergens plus gluten"
+      }
+    ]
+  }
+}
