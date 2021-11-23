@@ -68,5 +68,40 @@
             "location":""
          }
       ]
+   },
+   "grades":{
+      "term":"Spring 2021",
+      "gpa":"3.6",
+      "cgpa":"2.8",
+      "grades":[
+         {
+            "code":"N325P",
+            "time":"Today",
+            "title":"Intro to Database Design",
+            "grade":"A",
+            "credit":"4.00"
+         },
+         {
+            "code":"A122P",
+            "time":"05 Sept, 2021",
+            "title":"Biological Science",
+            "grade":"B",
+            "credit":"3.00"
+         },
+         {
+            "code":"Z191X",
+            "time":"03 Sept, 2021",
+            "title":"Study Habits",
+            "grade":"B",
+            "credit":"3.00"
+         },
+         {
+            "code":"C369A",
+            "time":"02 Sept 2021",
+            "title":"Intro to Material Design",
+            "grade":"A",
+            "credit":"4.00"
+         }
+      ]
    }
 }
