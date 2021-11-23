@@ -1,34 +1,72 @@
 {
-  "dining": {
-    "date": "17 Sept, 2022",
-    "meals": [
-      {
-        "id": 1,
-        "recurring": "true",
-        "time": "07:00 AM - 11:00 AM",
-        "mealtype": "Breakfast",
-        "subscribed": "true",
-        "title": "Gourmet Noodle",
-        "description": "Homestyle comfort food. Meatballs and gravy, tater-tot hotdish, and potatos"
-      },
-      {
-        "id": 2,
-        "recurring": "true",
-        "time": "08:00 PM - 11:00 PM",
-        "mealtype": "Dinner",
-        "subscribed": "true",
-        "title": "Global Cuisine",
-        "description": "Fire up the wok! International food made to order."
-      },
-      {
-        "id": 3,
-        "recurring": "false",
-        "time": "12:00 PM - 03:00 PM",
-        "mealtype": "Lunch",
-        "subscribed": "false",
-        "title": "Allergen Free",
-        "description": "Serving cuisine free of the eight common allergens plus gluten"
-      }
-    ]
-  }
+   "dining":{
+      "date":"17 Sept, 2022",
+      "meals":[
+         {
+            "id":1,
+            "recurring":"true",
+            "time":"07:00 AM - 11:00 AM",
+            "mealtype":"Breakfast",
+            "subscribed":"true",
+            "title":"Gourmet Noodle",
+            "description":"Homestyle comfort food. Meatballs and gravy, tater-tot hotdish, and potatos"
+         },
+         {
+            "id":2,
+            "recurring":"true",
+            "time":"08:00 PM - 11:00 PM",
+            "mealtype":"Dinner",
+            "subscribed":"true",
+            "title":"Global Cuisine",
+            "description":"Fire up the wok! International food made to order."
+         },
+         {
+            "id":3,
+            "recurring":"false",
+            "time":"12:00 PM - 03:00 PM",
+            "mealtype":"Lunch",
+            "subscribed":"false",
+            "title":"Allergen Free",
+            "description":"Serving cuisine free of the eight common allergens plus gluten"
+         }
+      ]
+   },
+   "schedule":{
+      "date":"12 Sept, 2021",
+      "schedules":[
+         {
+            "scheduleCode":"N325P",
+            "time":"10:00 AM - 10:30 AM",
+            "title":"CJ 301: Principles of Chemistry",
+            "recurrance":"Every Mon, Tue, Fri Until 05 Oct, 2021",
+            "isRecurring":true,
+            "venue":"Scholars hall, Room 209",
+            "faculty":"Julia Addeo",
+            "mode":"Offline",
+            "location":""
+         },
+         {
+            "scheduleCode":"ANT201",
+            "time":"10:30 AM - 12:30 PM",
+            "title":"ELEM of Computer/PRGM",
+            "recurrance":"Weekly Until 05 Oct, 2021",
+            "isRecurring":true,
+            "venue":"",
+            "faculty":"Sam Smith",
+            "mode":"Online",
+            "location":"meet.google.com/tct-cpqg-eag"
+         },
+         {
+            "scheduleCode":"DRT323",
+            "time":"12:30 PM - 02:30 PM",
+            "title":"Intro to Database Design",
+            "recurrance":"Every Mon, Tue, Fri Until 05 Oct, 2021",
+            "isRecurring":true,
+            "venue":"Scholars hall, Room 309",
+            "faculty":"Julia Addeo",
+            "mode":"Offline",
+            "location":""
+         }
+      ]
+   }
 }
