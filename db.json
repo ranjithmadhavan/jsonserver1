@@ -32,42 +32,73 @@
       ]
    },
    "schedule":{
-      "date":"12 Sept, 2021",
-      "schedules":[
-         {
-            "scheduleCode":"N325P",
-            "time":"10:00 AM - 10:30 AM",
-            "title":"CJ 301: Principles of Chemistry",
-            "recurrance":"Every Mon, Tue, Fri Until 05 Oct, 2021",
-            "isRecurring":true,
-            "venue":"Scholars hall, Room 209",
-            "faculty":"Julia Addeo",
-            "mode":"Offline",
-            "location":""
-         },
-         {
-            "scheduleCode":"ANT201",
-            "time":"10:30 AM - 12:30 PM",
-            "title":"ELEM of Computer/PRGM",
-            "recurrance":"Weekly Until 05 Oct, 2021",
-            "isRecurring":true,
-            "venue":"",
-            "faculty":"Sam Smith",
-            "mode":"Online",
-            "location":"meet.google.com/tct-cpqg-eag"
-         },
-         {
-            "scheduleCode":"DRT323",
-            "time":"12:30 PM - 02:30 PM",
-            "title":"Intro to Database Design",
-            "recurrance":"Every Mon, Tue, Fri Until 05 Oct, 2021",
-            "isRecurring":true,
-            "venue":"Scholars hall, Room 309",
-            "faculty":"Julia Addeo",
-            "mode":"Offline",
-            "location":""
-         }
-      ]
+      "status":"success",
+      "data":{
+         "startDate":"2021-11-24T00:00:00+05:30",
+         "endDate":"2021-11-24T23:59:59+05:30",
+         "schedule":[
+            {
+               "subject":"N325P",
+               "startDateTime":{
+                  "dateTime":"2021-11-24T10:00:00+05:30",
+                  "timeZone":"Asia/Kolkota"
+               },
+               "endDateTime":{
+                  "dateTime":"2021-11-24T10:30:00+05:30",
+                  "timeZone":"Asia/Kolkota"
+               },
+               "body":"CJ 301: Principles of Chemistry",
+               "recurrance":"Every Mon, Tue, Fri Until 05 Oct, 2021",
+               "recurring":true,
+               "location":"Scholars hall, Room 209",
+               "organizer":{
+                  "name":"Julia Addeo",
+                  "email":""
+               },
+               "mode":"Offline"
+            },
+            {
+               "subject":"ANT201",
+               "startDateTime":{
+                  "dateTime":"2021-11-24T10:30:00+05:30",
+                  "timeZone":"Asia/Kolkota"
+               },
+               "endDateTime":{
+                  "dateTime":"2021-11-24T12:30:00+05:30",
+                  "timeZone":"Asia/Kolkota"
+               },
+               "body":"ELEM of Computer/PRGM",
+               "recurrance":"Weekly Until 05 Oct, 2021",
+               "recurring":true,
+               "location":"meet.google.com/tct-cpqg-eag",
+               "organizer":{
+                  "name":"Sam Smith",
+                  "email":""
+               },
+               "mode":"Offline"
+            },
+            {
+               "subject":"DRT323",
+               "startDateTime":{
+                  "dateTime":"2021-11-24T12:30:00+05:30",
+                  "timeZone":"Asia/Kolkota"
+               },
+               "endDateTime":{
+                  "dateTime":"2021-11-24T14:30:00+05:30",
+                  "timeZone":"Asia/Kolkota"
+               },
+               "body":"Intro to Database Design",
+               "recurrance":"Every Mon, Tue, Fri Until 05 Oct, 2021",
+               "recurring":true,
+               "location":"Scholars hall, Room 309",
+               "organizer":{
+                  "name":"Julia Addeo",
+                  "email":""
+               },
+               "mode":"Offline"
+            }
+         ]
+      }
    },
    "grades":{
       "term":"Spring 2021",
