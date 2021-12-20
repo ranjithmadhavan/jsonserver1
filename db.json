@@ -167,21 +167,21 @@
    ],
    "events":[
       {
-         "img":"https://picsum.photos/200",
+         "img":"https://picsum.photos/200?random=1",
          "title":"College Day Event",
          "date":"21 Oct, 2021",
          "time":"18:30 PM",
          "location":"Student auditorium"
       },
       {
-         "img":"https://picsum.photos/200",
+         "img":"https://picsum.photos/200?random=2",
          "title":"Cultural Event",
          "date":"20 Oct, 2021",
          "time":"18:30 PM",
          "location":"Student auditorium"
       },
       {
-         "img":"https://picsum.photos/200",
+         "img":"https://picsum.photos/200?random=3",
          "title":"Dance Event",
          "date":"19 Oct, 2021",
          "time":"16:30 PM",
