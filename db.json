@@ -137,28 +137,28 @@
    },
    "blogs":[
       {
-         "img":"https://picsum.photos/200",
+         "img":"https://picsum.photos/200?random=1",
          "title":"How an efficient student information system helps institutions",
          "date":"Today",
          "views":3390,
          "author":"Veronica"
       },
       {
-         "img":"https://picsum.photos/200",
+         "img":"https://picsum.photos/200?random=2",
          "title":"The role of student engagement in higher education",
          "date":"Today",
          "views":1390,
          "author":"John Sue"
       },
       {
-         "img":"https://picsum.photos/200",
+         "img":"https://picsum.photos/200?random=3",
          "title":"Cybersecurity challenges in higher ED: How technology is a savior!",
          "date":"Yesterday",
          "views":9390,
          "author":"Mark Mathew"
       },
       {
-         "img":"https://picsum.photos/200",
+         "img":"https://picsum.photos/200?random=4",
          "title":"5 ways to make the most of your campus mobile app",
          "date":"Today",
          "views":6090,
