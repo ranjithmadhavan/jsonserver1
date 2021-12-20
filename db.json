@@ -168,24 +168,24 @@
    "events":[
       {
          "img":"https://picsum.photos/200?random=1",
-         "title":"College Day Event",
+         "title":"CBC WellnessCampaign",
          "date":"21 Oct, 2021",
-         "time":"18:30 PM",
+         "time":"12:30 PM",
          "location":"Student auditorium"
       },
       {
          "img":"https://picsum.photos/200?random=2",
-         "title":"Cultural Event",
+         "title":"Art, Activism & Censorship",
          "date":"20 Oct, 2021",
-         "time":"18:30 PM",
-         "location":"Student auditorium"
+         "time":"16:00 PM",
+         "location":"2nd Floor, English block"
       },
       {
          "img":"https://picsum.photos/200?random=3",
-         "title":"Dance Event",
+         "title":" The Dance Fest '21",
          "date":"19 Oct, 2021",
-         "time":"16:30 PM",
-         "location":"Student auditorium"
+         "time":"17:30 PM",
+         "location":"Francis field"
       }
    ]
 }
