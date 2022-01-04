@@ -167,25 +167,44 @@
    ],
    "events":[
       {
-         "img":"https://picsum.photos/200?random=1",
+         "img":"https://picsum.photos/200?random=5",
          "title":"CBC WellnessCampaign",
          "date":"21 Oct, 2021",
          "time":"12:30 PM",
-         "location":"Student auditorium"
+         "location":"Student auditorium",
+         "eventType":"myevent"
       },
       {
-         "img":"https://picsum.photos/200?random=2",
+         "img":"https://picsum.photos/200?random=6",
          "title":"Art, Activism & Censorship",
          "date":"20 Oct, 2021",
          "time":"16:00 PM",
-         "location":"2nd Floor, English block"
+         "location":"2nd Floor, English block",
+         "eventType":"myevent"
       },
       {
-         "img":"https://picsum.photos/200?random=3",
-         "title":" The Dance Fest '21",
+         "img":"https://picsum.photos/200?random=7",
+         "title":"The Dance Fest '21",
          "date":"19 Oct, 2021",
          "time":"17:30 PM",
-         "location":"Francis field"
+         "location":"Francis field",
+         "eventType":"myevent"
+      },
+      {
+         "img":"https://picsum.photos/200?random=7",
+         "title":"Virtual Student Guide Tour",
+         "date":"2 Feb, 2022",
+         "time":"16:00 PM",
+         "location":"Francis field",
+         "eventType":"suggested"
+      },
+      {
+         "img":"https://picsum.photos/200?random=8",
+         "title":"Social Justice Leaders Series",
+         "date":"5 Feb, 2022",
+         "time":"17:30 PM",
+         "location":"2nd Floor, English block",
+         "eventType":"suggested"
       }
    ]
 }
