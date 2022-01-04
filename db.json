@@ -137,28 +137,28 @@
    },
    "blogs":[
       {
-         "img":"https://picsum.photos/200?random=1",
+         "img":"https://www.dropbox.com/s/yzkj7ckttux14qm/blog-1.png",
          "title":"How an efficient student information system helps institutions",
          "date":"Today",
          "views":3390,
          "author":"Veronica"
       },
       {
-         "img":"https://picsum.photos/200?random=2",
+         "img":"https://www.dropbox.com/s/z72hz1rw6j3u5i3/blog-2.png",
          "title":"The role of student engagement in higher education",
          "date":"Today",
          "views":1390,
          "author":"John Sue"
       },
       {
-         "img":"https://picsum.photos/200?random=3",
+         "img":"https://www.dropbox.com/s/phzbg6m836ut56k/blog-3.png",
          "title":"Cybersecurity challenges in higher ED: How technology is a savior!",
          "date":"Yesterday",
          "views":9390,
          "author":"Mark Mathew"
       },
       {
-         "img":"https://picsum.photos/200?random=4",
+         "img":"https://www.dropbox.com/s/3x2tbatcbt643ty/blog-4.png",
          "title":"5 ways to make the most of your campus mobile app",
          "date":"Today",
          "views":6090,
@@ -167,7 +167,7 @@
    ],
    "events":[
       {
-         "img":"https://picsum.photos/200?random=5",
+         "img":"https://www.dropbox.com/s/qcrurhtk92hhc5z/event-1.png",
          "title":"CBC WellnessCampaign",
          "date":"21 Oct, 2021",
          "time":"12:30 PM",
@@ -175,7 +175,7 @@
          "eventType":"myevent"
       },
       {
-         "img":"https://picsum.photos/200?random=6",
+         "img":"https://www.dropbox.com/s/qa2k5qssop0ej18/event-2.png",
          "title":"Art, Activism & Censorship",
          "date":"20 Oct, 2021",
          "time":"16:00 PM",
@@ -183,7 +183,7 @@
          "eventType":"myevent"
       },
       {
-         "img":"https://picsum.photos/200?random=7",
+         "img":"https://www.dropbox.com/s/b3jy8xx0nkfztmo/event-3.png",
          "title":"The Dance Fest '21",
          "date":"19 Oct, 2021",
          "time":"17:30 PM",
@@ -191,7 +191,7 @@
          "eventType":"myevent"
       },
       {
-         "img":"https://picsum.photos/200?random=7",
+         "img":"https://www.dropbox.com/s/4lkmx6qmgk8xpaz/event-4.png",
          "title":"Virtual Student Guide Tour",
          "date":"2 Feb, 2022",
          "time":"16:00 PM",
@@ -199,7 +199,7 @@
          "eventType":"suggested"
       },
       {
-         "img":"https://picsum.photos/200?random=8",
+         "img":"https://www.dropbox.com/s/kb34lb8fuihsdb0/event-5.png",
          "title":"Social Justice Leaders Series",
          "date":"5 Feb, 2022",
          "time":"17:30 PM",
